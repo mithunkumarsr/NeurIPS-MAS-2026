@@ -4,7 +4,7 @@
 Welcome to the interactive pedagogical sandbox. 
 
 ### 📺 Video Walkthrough
-[Click here to watch the 5-minute conceptual walkthrough video](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Click here to watch the 5-minute conceptual walkthrough video](https://youtu.be/GC3Y3uJP1cM)
 
 ### 💻 Interactive Labs
 Click the badges below to open the environments directly in Google Colab.
